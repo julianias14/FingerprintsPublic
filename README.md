@@ -1,2 +1,6 @@
 # FingerprintsPublic
-Object-oriented assignment simulating a company's fingerprint security. Uses OOP to simulate onboarding a set of employees into a company. Reads from a CSV file and creates People objects to add to the company, and the driver allows the user to add and remove employees, log in and log out employees, and run reports and authentications.
+## Official Assignment Description
+This assignment's purpose is to introduce you to OOP in Java through biometric data analysis as a means of security authentication. This assignment uses Java OOP to simulate onboarding a set of employees into a company. You will read from a csv file and create People objects to add to the company. Using a driver, you will add and remove employees, login and logout employees and run reports.
+
+Original Nifty Assignment by Christian Servin, Ivan Alonso, Emiliano Garcia
+Adapted to Rutgers Intro to Computer Science by Mary Buist, Sumedh Sinha, Juliania Shyprykevych, and Maaz Mansuri
