@@ -1,0 +1,2 @@
+Original Nifty Assignment by Christian Servin, Ivan Alonso, Emiliano Garcia
+Adapted to Rutgers Intro to Computer Science by Mary Buist, Sumedh Sinha, Juliania Shyprykevych, and Maaz Mansuri
